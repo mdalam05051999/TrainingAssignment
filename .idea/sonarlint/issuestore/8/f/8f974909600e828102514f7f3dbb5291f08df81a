@@ -1,0 +1,10 @@
+
+G	java:S106
+"+Replace this use of System.out by a logger.(ÁÆõø8»Í¿¶Ò1
+L	java:S106"+Replace this use of System.out by a logger.(í”äûÿÿÿÿ8¼Í¿¶Ò1
+L	java:S106"+Replace this use of System.out by a logger.(ñ±¤ıÿÿÿÿ8¼Í¿¶Ò1
+y
+java:S4276"\Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Double>'(ËÍá8ı—À¶Ò1
+L	java:S106*"+Replace this use of System.out by a logger.(î¬ş¶şÿÿÿÿ8¾Í¿¶Ò1
+G	java:S1064"+Replace this use of System.out by a logger.(£Ã­§8¿Í¿¶Ò1
+L	java:S1069"+Replace this use of System.out by a logger.(—İ™“øÿÿÿÿ8¿Í¿¶Ò1

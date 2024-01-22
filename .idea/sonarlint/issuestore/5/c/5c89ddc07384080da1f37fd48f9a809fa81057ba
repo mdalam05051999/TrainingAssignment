@@ -1,0 +1,7 @@
+
+¤
+java:S2681"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(Ì‚ˆÌ8ò«ÌµÒ1
+L	java:S106"+Replace this use of System.out by a logger.(¤éÞÌøÿÿÿÿ8ˆ¬ÌµÒ1
+<
+java:S1659
+"Declare "j" on a separate line.(÷–ªÚ8‹¬ÌµÒ1
